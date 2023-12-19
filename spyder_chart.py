@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1dZOw5eUsTetXM2hiy2UacrEguZjC4k2e
 """
 
-pip install plotly
-
-pip install dash
-
 import plotly.graph_objects as go
 import dash
 import dash_core_components as dcc
