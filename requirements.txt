@@ -1,4 +1,4 @@
 dash==2.0.0
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-plotly==5.3.1
+dash-core-components
+dash-html-components
+plotly
